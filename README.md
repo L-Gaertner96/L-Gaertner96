@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working on: https://helper.beedev-services.com/index.html
-Currently Learning Android App Development
+Currently working on: https://helper.beedev-services.com/index.html<br>
+Currently Learning Android App Development<br>
 Reach me at gaertner.logan@gmail.com

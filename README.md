@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github! 👋
 
 <!--
 **L-Gaertner96/L-Gaertner96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently working on: https://helper.beedev-services.com/index.html
+Currently Learning Android App Development
+Reach me at gaertner.logan@gmail.com
